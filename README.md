@@ -1,1 +1,2 @@
-# data_structure
+# Data Structure
+DFS, BFS are goind to be uploaded soon.
